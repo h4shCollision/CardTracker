@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CardTracker</string>
+    <string name="new_game">New Game</string>
+    <string name="include_jokers">Include Jokers</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="decks_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
